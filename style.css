@@ -1,0 +1,100 @@
+/*--------------------------------------------------------- navbar--------------------------------------------------------->*/
+
+.button {
+	background-color: #88b01c;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.button3 {
+	border-radius: 8px;
+}
+
+@media only screen and (max-width: 600px) {
+	.button {
+		background-color: #343a40;
+		border: none;
+		color: white;
+		padding: 20px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	}
+}
+
+
+/*--------------------------------------------------------- introduction--------------------------------------------------------->*/
+
+.introduction {
+	background-color: #f55828;
+}
+
+
+/*--------------------------------------------------------- enquiry--------------------------------------------------------->*/
+
+.enquiryHeading {
+	color: white;
+}
+
+.submitButton {
+	background-color: #88b01c;
+}
+
+
+/*--------------------------------------------------------- news and events--------------------------------------------------------->*/
+
+.newsEvents {
+	background-color: #88b01c;
+}
+
+
+/*--------------------------------------------------------- testimonials--------------------------------------------------------->*/
+
+.testimonials {
+	background-color: #84eaf1;
+}
+
+
+/*--------------------------------------------------------- clients--------------------------------------------------------->*/
+
+.slick-slide {
+	margin: 10px
+}
+
+.slick-slide img {
+	width: 100%;
+	border: 0px solid #fff
+}
+
+
+/*--------------------------------------------------------- footer--------------------------------------------------------->*/
+
+.footer {
+	background-color: #f55828;
+}
+
+.socialMediaIcons {
+	height: 80px;
+	background-color: #88b01c;
+	font-size: 25pt;
+}
+
+.connectus {
+	font-size: 15pt;
+}
+
+.link {
+	color: rgb(34, 34, 34);
+}
